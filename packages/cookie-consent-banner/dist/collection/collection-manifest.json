@@ -1,0 +1,12 @@
+{
+  "entries": [
+    "components/cookie-consent-banner/cookie-consent-banner.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "4.12.0",
+    "typescriptVersion": "5.3.3"
+  },
+  "collections": [],
+  "bundles": []
+}
